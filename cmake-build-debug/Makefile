@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Mathematics/8.obj: Mathematics/8.cpp.obj
+Mathematics/10_power_of_a_number.obj: Mathematics/10_power_of_a_number.cpp.obj
 
-.PHONY : Mathematics/8.obj
+.PHONY : Mathematics/10_power_of_a_number.obj
 
 # target to build an object file
-Mathematics/8.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/8.cpp.obj
-.PHONY : Mathematics/8.cpp.obj
+Mathematics/10_power_of_a_number.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/10_power_of_a_number.cpp.obj
+.PHONY : Mathematics/10_power_of_a_number.cpp.obj
 
-Mathematics/8.i: Mathematics/8.cpp.i
+Mathematics/10_power_of_a_number.i: Mathematics/10_power_of_a_number.cpp.i
 
-.PHONY : Mathematics/8.i
+.PHONY : Mathematics/10_power_of_a_number.i
 
 # target to preprocess a source file
-Mathematics/8.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/8.cpp.i
-.PHONY : Mathematics/8.cpp.i
+Mathematics/10_power_of_a_number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/10_power_of_a_number.cpp.i
+.PHONY : Mathematics/10_power_of_a_number.cpp.i
 
-Mathematics/8.s: Mathematics/8.cpp.s
+Mathematics/10_power_of_a_number.s: Mathematics/10_power_of_a_number.cpp.s
 
-.PHONY : Mathematics/8.s
+.PHONY : Mathematics/10_power_of_a_number.s
 
 # target to generate assembly for a file
-Mathematics/8.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/8.cpp.s
-.PHONY : Mathematics/8.cpp.s
+Mathematics/10_power_of_a_number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/10_power_of_a_number.cpp.s
+.PHONY : Mathematics/10_power_of_a_number.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Mathematics/8.obj
-	@echo ... Mathematics/8.i
-	@echo ... Mathematics/8.s
+	@echo ... Mathematics/10_power_of_a_number.obj
+	@echo ... Mathematics/10_power_of_a_number.i
+	@echo ... Mathematics/10_power_of_a_number.s
 .PHONY : help
 
 

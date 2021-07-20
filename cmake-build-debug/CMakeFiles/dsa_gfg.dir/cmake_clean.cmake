@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dsa_gfg.dir/Mathematics/8.cpp.obj"
+  "CMakeFiles/dsa_gfg.dir/Mathematics/10_power_of_a_number.cpp.obj"
   "dsa_gfg.exe"
   "dsa_gfg.exe.manifest"
   "dsa_gfg.pdb"

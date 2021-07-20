@@ -8,4 +8,5 @@ S.NO    TOPIC OF CODE                                               TIME COMPLEX
 6:      Check if number is prime or not                             O(sqrt(n))              O(1)
 7:      Print prime factors of a number                             Theta(sqrt(n))          O(1)
 8:      Print all divisor of a number                               Theta(sqrt(n))          O(1)
-9:      All prime smaller than n(Sieve of Eratosthenes)             
+9:      All prime smaller than n(Sieve of Eratosthenes)             O(nloglogn)             O(n)
+10:     Compute power of a number(recursive+iterative)              O(log n)                O(n)[rec]  O(1)[iter]
