@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Bit_Magic/6_subset_of_a_string.obj: Bit_Magic/6_subset_of_a_string.cpp.obj
+Recursion/3_rope_cutting_problem.obj: Recursion/3_rope_cutting_problem.cpp.obj
 
-.PHONY : Bit_Magic/6_subset_of_a_string.obj
+.PHONY : Recursion/3_rope_cutting_problem.obj
 
 # target to build an object file
-Bit_Magic/6_subset_of_a_string.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Bit_Magic/6_subset_of_a_string.cpp.obj
-.PHONY : Bit_Magic/6_subset_of_a_string.cpp.obj
+Recursion/3_rope_cutting_problem.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/3_rope_cutting_problem.cpp.obj
+.PHONY : Recursion/3_rope_cutting_problem.cpp.obj
 
-Bit_Magic/6_subset_of_a_string.i: Bit_Magic/6_subset_of_a_string.cpp.i
+Recursion/3_rope_cutting_problem.i: Recursion/3_rope_cutting_problem.cpp.i
 
-.PHONY : Bit_Magic/6_subset_of_a_string.i
+.PHONY : Recursion/3_rope_cutting_problem.i
 
 # target to preprocess a source file
-Bit_Magic/6_subset_of_a_string.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Bit_Magic/6_subset_of_a_string.cpp.i
-.PHONY : Bit_Magic/6_subset_of_a_string.cpp.i
+Recursion/3_rope_cutting_problem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/3_rope_cutting_problem.cpp.i
+.PHONY : Recursion/3_rope_cutting_problem.cpp.i
 
-Bit_Magic/6_subset_of_a_string.s: Bit_Magic/6_subset_of_a_string.cpp.s
+Recursion/3_rope_cutting_problem.s: Recursion/3_rope_cutting_problem.cpp.s
 
-.PHONY : Bit_Magic/6_subset_of_a_string.s
+.PHONY : Recursion/3_rope_cutting_problem.s
 
 # target to generate assembly for a file
-Bit_Magic/6_subset_of_a_string.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Bit_Magic/6_subset_of_a_string.cpp.s
-.PHONY : Bit_Magic/6_subset_of_a_string.cpp.s
+Recursion/3_rope_cutting_problem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/3_rope_cutting_problem.cpp.s
+.PHONY : Recursion/3_rope_cutting_problem.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Bit_Magic/6_subset_of_a_string.obj
-	@echo ... Bit_Magic/6_subset_of_a_string.i
-	@echo ... Bit_Magic/6_subset_of_a_string.s
+	@echo ... Recursion/3_rope_cutting_problem.obj
+	@echo ... Recursion/3_rope_cutting_problem.i
+	@echo ... Recursion/3_rope_cutting_problem.s
 .PHONY : help
 
 

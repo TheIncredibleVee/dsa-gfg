@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Bit_Magic/6_subset_of_a_string.cpp">
+		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Recursion/3_rope_cutting_problem.cpp">
 			<Option target="dsa_gfg"/>
 		</Unit>
 		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/CMakeLists.txt">

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dsa_gfg.dir/Bit_Magic/6_subset_of_a_string.cpp.obj"
+  "CMakeFiles/dsa_gfg.dir/Recursion/3_rope_cutting_problem.cpp.obj"
   "dsa_gfg.exe"
   "dsa_gfg.exe.manifest"
   "dsa_gfg.pdb"
