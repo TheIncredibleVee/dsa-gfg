@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Mathematics/10_power_of_a_number.obj: Mathematics/10_power_of_a_number.cpp.obj
+Bit_Magic/6_subset_of_a_string.obj: Bit_Magic/6_subset_of_a_string.cpp.obj
 
-.PHONY : Mathematics/10_power_of_a_number.obj
+.PHONY : Bit_Magic/6_subset_of_a_string.obj
 
 # target to build an object file
-Mathematics/10_power_of_a_number.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/10_power_of_a_number.cpp.obj
-.PHONY : Mathematics/10_power_of_a_number.cpp.obj
+Bit_Magic/6_subset_of_a_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Bit_Magic/6_subset_of_a_string.cpp.obj
+.PHONY : Bit_Magic/6_subset_of_a_string.cpp.obj
 
-Mathematics/10_power_of_a_number.i: Mathematics/10_power_of_a_number.cpp.i
+Bit_Magic/6_subset_of_a_string.i: Bit_Magic/6_subset_of_a_string.cpp.i
 
-.PHONY : Mathematics/10_power_of_a_number.i
+.PHONY : Bit_Magic/6_subset_of_a_string.i
 
 # target to preprocess a source file
-Mathematics/10_power_of_a_number.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/10_power_of_a_number.cpp.i
-.PHONY : Mathematics/10_power_of_a_number.cpp.i
+Bit_Magic/6_subset_of_a_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Bit_Magic/6_subset_of_a_string.cpp.i
+.PHONY : Bit_Magic/6_subset_of_a_string.cpp.i
 
-Mathematics/10_power_of_a_number.s: Mathematics/10_power_of_a_number.cpp.s
+Bit_Magic/6_subset_of_a_string.s: Bit_Magic/6_subset_of_a_string.cpp.s
 
-.PHONY : Mathematics/10_power_of_a_number.s
+.PHONY : Bit_Magic/6_subset_of_a_string.s
 
 # target to generate assembly for a file
-Mathematics/10_power_of_a_number.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Mathematics/10_power_of_a_number.cpp.s
-.PHONY : Mathematics/10_power_of_a_number.cpp.s
+Bit_Magic/6_subset_of_a_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Bit_Magic/6_subset_of_a_string.cpp.s
+.PHONY : Bit_Magic/6_subset_of_a_string.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Mathematics/10_power_of_a_number.obj
-	@echo ... Mathematics/10_power_of_a_number.i
-	@echo ... Mathematics/10_power_of_a_number.s
+	@echo ... Bit_Magic/6_subset_of_a_string.obj
+	@echo ... Bit_Magic/6_subset_of_a_string.i
+	@echo ... Bit_Magic/6_subset_of_a_string.s
 .PHONY : help
 
 

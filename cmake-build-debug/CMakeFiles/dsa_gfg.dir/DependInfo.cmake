@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/thein/Desktop/dsa-gfg/Mathematics/10_power_of_a_number.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Mathematics/10_power_of_a_number.cpp.obj"
+  "C:/Users/thein/Desktop/dsa-gfg/Bit_Magic/6_subset_of_a_string.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Bit_Magic/6_subset_of_a_string.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

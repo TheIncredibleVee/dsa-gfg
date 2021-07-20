@@ -4,4 +4,4 @@ project(dsa_gfg)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(dsa_gfg
-        Mathematics/10_power_of_a_number.cpp)
+        Bit_Magic/6_subset_of_a_string.cpp)
