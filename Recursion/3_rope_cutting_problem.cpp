@@ -13,7 +13,7 @@ int cut_ropes(int n, int a, int b, int c){
         return -1;
     int res=maxi( cut_ropes(n-a,a,b,c), cut_ropes(n-b,a,b,c), cut_ropes(n-c,a,b,c));
     if (res==-1)
-        return -1;
+        return -1;`
     else
         return 1+res;
 }

@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Recursion/3_rope_cutting_problem.obj: Recursion/3_rope_cutting_problem.cpp.obj
+Recursion/8_permutations_of_a_string.obj: Recursion/8_permutations_of_a_string.cpp.obj
 
-.PHONY : Recursion/3_rope_cutting_problem.obj
+.PHONY : Recursion/8_permutations_of_a_string.obj
 
 # target to build an object file
-Recursion/3_rope_cutting_problem.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/3_rope_cutting_problem.cpp.obj
-.PHONY : Recursion/3_rope_cutting_problem.cpp.obj
+Recursion/8_permutations_of_a_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/8_permutations_of_a_string.cpp.obj
+.PHONY : Recursion/8_permutations_of_a_string.cpp.obj
 
-Recursion/3_rope_cutting_problem.i: Recursion/3_rope_cutting_problem.cpp.i
+Recursion/8_permutations_of_a_string.i: Recursion/8_permutations_of_a_string.cpp.i
 
-.PHONY : Recursion/3_rope_cutting_problem.i
+.PHONY : Recursion/8_permutations_of_a_string.i
 
 # target to preprocess a source file
-Recursion/3_rope_cutting_problem.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/3_rope_cutting_problem.cpp.i
-.PHONY : Recursion/3_rope_cutting_problem.cpp.i
+Recursion/8_permutations_of_a_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/8_permutations_of_a_string.cpp.i
+.PHONY : Recursion/8_permutations_of_a_string.cpp.i
 
-Recursion/3_rope_cutting_problem.s: Recursion/3_rope_cutting_problem.cpp.s
+Recursion/8_permutations_of_a_string.s: Recursion/8_permutations_of_a_string.cpp.s
 
-.PHONY : Recursion/3_rope_cutting_problem.s
+.PHONY : Recursion/8_permutations_of_a_string.s
 
 # target to generate assembly for a file
-Recursion/3_rope_cutting_problem.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/3_rope_cutting_problem.cpp.s
-.PHONY : Recursion/3_rope_cutting_problem.cpp.s
+Recursion/8_permutations_of_a_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/8_permutations_of_a_string.cpp.s
+.PHONY : Recursion/8_permutations_of_a_string.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Recursion/3_rope_cutting_problem.obj
-	@echo ... Recursion/3_rope_cutting_problem.i
-	@echo ... Recursion/3_rope_cutting_problem.s
+	@echo ... Recursion/8_permutations_of_a_string.obj
+	@echo ... Recursion/8_permutations_of_a_string.i
+	@echo ... Recursion/8_permutations_of_a_string.s
 .PHONY : help
 
 
