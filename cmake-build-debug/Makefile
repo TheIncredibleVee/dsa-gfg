@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Recursion/8_permutations_of_a_string.obj: Recursion/8_permutations_of_a_string.cpp.obj
+Arrays/7_max_diff.obj: Arrays/7_max_diff.cpp.obj
 
-.PHONY : Recursion/8_permutations_of_a_string.obj
+.PHONY : Arrays/7_max_diff.obj
 
 # target to build an object file
-Recursion/8_permutations_of_a_string.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/8_permutations_of_a_string.cpp.obj
-.PHONY : Recursion/8_permutations_of_a_string.cpp.obj
+Arrays/7_max_diff.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/7_max_diff.cpp.obj
+.PHONY : Arrays/7_max_diff.cpp.obj
 
-Recursion/8_permutations_of_a_string.i: Recursion/8_permutations_of_a_string.cpp.i
+Arrays/7_max_diff.i: Arrays/7_max_diff.cpp.i
 
-.PHONY : Recursion/8_permutations_of_a_string.i
+.PHONY : Arrays/7_max_diff.i
 
 # target to preprocess a source file
-Recursion/8_permutations_of_a_string.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/8_permutations_of_a_string.cpp.i
-.PHONY : Recursion/8_permutations_of_a_string.cpp.i
+Arrays/7_max_diff.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/7_max_diff.cpp.i
+.PHONY : Arrays/7_max_diff.cpp.i
 
-Recursion/8_permutations_of_a_string.s: Recursion/8_permutations_of_a_string.cpp.s
+Arrays/7_max_diff.s: Arrays/7_max_diff.cpp.s
 
-.PHONY : Recursion/8_permutations_of_a_string.s
+.PHONY : Arrays/7_max_diff.s
 
 # target to generate assembly for a file
-Recursion/8_permutations_of_a_string.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Recursion/8_permutations_of_a_string.cpp.s
-.PHONY : Recursion/8_permutations_of_a_string.cpp.s
+Arrays/7_max_diff.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/7_max_diff.cpp.s
+.PHONY : Arrays/7_max_diff.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Recursion/8_permutations_of_a_string.obj
-	@echo ... Recursion/8_permutations_of_a_string.i
-	@echo ... Recursion/8_permutations_of_a_string.s
+	@echo ... Arrays/7_max_diff.obj
+	@echo ... Arrays/7_max_diff.i
+	@echo ... Arrays/7_max_diff.s
 .PHONY : help
 
 

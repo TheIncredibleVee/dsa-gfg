@@ -4,4 +4,4 @@ project(dsa_gfg)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(dsa_gfg
-        Recursion/8_permutations_of_a_string.cpp)
+        Arrays/7_max_diff.cpp)

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dsa_gfg.dir/Recursion/8_permutations_of_a_string.cpp.obj"
+  "CMakeFiles/dsa_gfg.dir/Arrays/7_max_diff.cpp.obj"
   "dsa_gfg.exe"
   "dsa_gfg.exe.manifest"
   "dsa_gfg.pdb"

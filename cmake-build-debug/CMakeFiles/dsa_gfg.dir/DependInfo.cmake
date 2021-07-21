@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/thein/Desktop/dsa-gfg/Recursion/8_permutations_of_a_string.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Recursion/8_permutations_of_a_string.cpp.obj"
+  "C:/Users/thein/Desktop/dsa-gfg/Arrays/7_max_diff.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Arrays/7_max_diff.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
