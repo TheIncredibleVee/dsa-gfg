@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Arrays/7_max_diff.obj: Arrays/7_max_diff.cpp.obj
+Arrays/24_max_freq.obj: Arrays/24_max_freq.cpp.obj
 
-.PHONY : Arrays/7_max_diff.obj
+.PHONY : Arrays/24_max_freq.obj
 
 # target to build an object file
-Arrays/7_max_diff.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/7_max_diff.cpp.obj
-.PHONY : Arrays/7_max_diff.cpp.obj
+Arrays/24_max_freq.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/24_max_freq.cpp.obj
+.PHONY : Arrays/24_max_freq.cpp.obj
 
-Arrays/7_max_diff.i: Arrays/7_max_diff.cpp.i
+Arrays/24_max_freq.i: Arrays/24_max_freq.cpp.i
 
-.PHONY : Arrays/7_max_diff.i
+.PHONY : Arrays/24_max_freq.i
 
 # target to preprocess a source file
-Arrays/7_max_diff.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/7_max_diff.cpp.i
-.PHONY : Arrays/7_max_diff.cpp.i
+Arrays/24_max_freq.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/24_max_freq.cpp.i
+.PHONY : Arrays/24_max_freq.cpp.i
 
-Arrays/7_max_diff.s: Arrays/7_max_diff.cpp.s
+Arrays/24_max_freq.s: Arrays/24_max_freq.cpp.s
 
-.PHONY : Arrays/7_max_diff.s
+.PHONY : Arrays/24_max_freq.s
 
 # target to generate assembly for a file
-Arrays/7_max_diff.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/7_max_diff.cpp.s
-.PHONY : Arrays/7_max_diff.cpp.s
+Arrays/24_max_freq.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/24_max_freq.cpp.s
+.PHONY : Arrays/24_max_freq.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Arrays/7_max_diff.obj
-	@echo ... Arrays/7_max_diff.i
-	@echo ... Arrays/7_max_diff.s
+	@echo ... Arrays/24_max_freq.obj
+	@echo ... Arrays/24_max_freq.i
+	@echo ... Arrays/24_max_freq.s
 .PHONY : help
 
 

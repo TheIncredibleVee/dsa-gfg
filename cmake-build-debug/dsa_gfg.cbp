@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Arrays/7_max_diff.cpp">
+		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Arrays/24_max_freq.cpp">
 			<Option target="dsa_gfg"/>
 		</Unit>
 		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/CMakeLists.txt">

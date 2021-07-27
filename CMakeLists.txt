@@ -4,4 +4,4 @@ project(dsa_gfg)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(dsa_gfg
-        Arrays/7_max_diff.cpp)
+        Arrays/24_max_freq.cpp)
