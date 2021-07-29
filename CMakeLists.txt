@@ -4,4 +4,4 @@ project(dsa_gfg)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(dsa_gfg
-        Arrays/24_max_freq.cpp)
+        Searching/8_min_of_max_pages.cpp)

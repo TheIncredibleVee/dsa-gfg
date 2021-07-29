@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Arrays/24_max_freq.obj: Arrays/24_max_freq.cpp.obj
+Searching/8_min_of_max_pages.obj: Searching/8_min_of_max_pages.cpp.obj
 
-.PHONY : Arrays/24_max_freq.obj
+.PHONY : Searching/8_min_of_max_pages.obj
 
 # target to build an object file
-Arrays/24_max_freq.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/24_max_freq.cpp.obj
-.PHONY : Arrays/24_max_freq.cpp.obj
+Searching/8_min_of_max_pages.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Searching/8_min_of_max_pages.cpp.obj
+.PHONY : Searching/8_min_of_max_pages.cpp.obj
 
-Arrays/24_max_freq.i: Arrays/24_max_freq.cpp.i
+Searching/8_min_of_max_pages.i: Searching/8_min_of_max_pages.cpp.i
 
-.PHONY : Arrays/24_max_freq.i
+.PHONY : Searching/8_min_of_max_pages.i
 
 # target to preprocess a source file
-Arrays/24_max_freq.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/24_max_freq.cpp.i
-.PHONY : Arrays/24_max_freq.cpp.i
+Searching/8_min_of_max_pages.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Searching/8_min_of_max_pages.cpp.i
+.PHONY : Searching/8_min_of_max_pages.cpp.i
 
-Arrays/24_max_freq.s: Arrays/24_max_freq.cpp.s
+Searching/8_min_of_max_pages.s: Searching/8_min_of_max_pages.cpp.s
 
-.PHONY : Arrays/24_max_freq.s
+.PHONY : Searching/8_min_of_max_pages.s
 
 # target to generate assembly for a file
-Arrays/24_max_freq.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Arrays/24_max_freq.cpp.s
-.PHONY : Arrays/24_max_freq.cpp.s
+Searching/8_min_of_max_pages.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Searching/8_min_of_max_pages.cpp.s
+.PHONY : Searching/8_min_of_max_pages.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Arrays/24_max_freq.obj
-	@echo ... Arrays/24_max_freq.i
-	@echo ... Arrays/24_max_freq.s
+	@echo ... Searching/8_min_of_max_pages.obj
+	@echo ... Searching/8_min_of_max_pages.i
+	@echo ... Searching/8_min_of_max_pages.s
 .PHONY : help
 
 
