@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Searching/8_min_of_max_pages.obj: Searching/8_min_of_max_pages.cpp.obj
+Sorting/1_bubble_sort.obj: Sorting/1_bubble_sort.cpp.obj
 
-.PHONY : Searching/8_min_of_max_pages.obj
+.PHONY : Sorting/1_bubble_sort.obj
 
 # target to build an object file
-Searching/8_min_of_max_pages.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Searching/8_min_of_max_pages.cpp.obj
-.PHONY : Searching/8_min_of_max_pages.cpp.obj
+Sorting/1_bubble_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Sorting/1_bubble_sort.cpp.obj
+.PHONY : Sorting/1_bubble_sort.cpp.obj
 
-Searching/8_min_of_max_pages.i: Searching/8_min_of_max_pages.cpp.i
+Sorting/1_bubble_sort.i: Sorting/1_bubble_sort.cpp.i
 
-.PHONY : Searching/8_min_of_max_pages.i
+.PHONY : Sorting/1_bubble_sort.i
 
 # target to preprocess a source file
-Searching/8_min_of_max_pages.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Searching/8_min_of_max_pages.cpp.i
-.PHONY : Searching/8_min_of_max_pages.cpp.i
+Sorting/1_bubble_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Sorting/1_bubble_sort.cpp.i
+.PHONY : Sorting/1_bubble_sort.cpp.i
 
-Searching/8_min_of_max_pages.s: Searching/8_min_of_max_pages.cpp.s
+Sorting/1_bubble_sort.s: Sorting/1_bubble_sort.cpp.s
 
-.PHONY : Searching/8_min_of_max_pages.s
+.PHONY : Sorting/1_bubble_sort.s
 
 # target to generate assembly for a file
-Searching/8_min_of_max_pages.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Searching/8_min_of_max_pages.cpp.s
-.PHONY : Searching/8_min_of_max_pages.cpp.s
+Sorting/1_bubble_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Sorting/1_bubble_sort.cpp.s
+.PHONY : Sorting/1_bubble_sort.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Searching/8_min_of_max_pages.obj
-	@echo ... Searching/8_min_of_max_pages.i
-	@echo ... Searching/8_min_of_max_pages.s
+	@echo ... Sorting/1_bubble_sort.obj
+	@echo ... Sorting/1_bubble_sort.i
+	@echo ... Sorting/1_bubble_sort.s
 .PHONY : help
 
 

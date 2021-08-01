@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Searching/8_min_of_max_pages.cpp">
+		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Sorting/1_bubble_sort.cpp">
 			<Option target="dsa_gfg"/>
 		</Unit>
 		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/CMakeLists.txt">

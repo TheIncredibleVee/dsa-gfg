@@ -9,3 +9,4 @@ S.NO    TOPIC OF CODE                                                           
 7.      Find the only repeating element in the given array                                      O(n)                    O(1)
 8.      Find min number of maximum pages with given k students (Recursive & Binary)             O(2^n) & O(n*logsum)      O(2^n) & O(1)
 
+

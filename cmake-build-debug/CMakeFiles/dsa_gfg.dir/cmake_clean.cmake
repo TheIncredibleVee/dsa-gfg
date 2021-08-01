@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dsa_gfg.dir/Searching/8_min_of_max_pages.cpp.obj"
+  "CMakeFiles/dsa_gfg.dir/Sorting/1_bubble_sort.cpp.obj"
   "dsa_gfg.exe"
   "dsa_gfg.exe.manifest"
   "dsa_gfg.pdb"

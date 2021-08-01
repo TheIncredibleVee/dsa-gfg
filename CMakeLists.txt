@@ -4,4 +4,4 @@ project(dsa_gfg)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(dsa_gfg
-        Searching/8_min_of_max_pages.cpp)
+        Sorting/1_bubble_sort.cpp)
