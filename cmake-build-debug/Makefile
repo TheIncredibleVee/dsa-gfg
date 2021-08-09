@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Sorting/1_bubble_sort.obj: Sorting/1_bubble_sort.cpp.obj
+Matrix/7_median_of_sorted_matrix.obj: Matrix/7_median_of_sorted_matrix.cpp.obj
 
-.PHONY : Sorting/1_bubble_sort.obj
+.PHONY : Matrix/7_median_of_sorted_matrix.obj
 
 # target to build an object file
-Sorting/1_bubble_sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Sorting/1_bubble_sort.cpp.obj
-.PHONY : Sorting/1_bubble_sort.cpp.obj
+Matrix/7_median_of_sorted_matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Matrix/7_median_of_sorted_matrix.cpp.obj
+.PHONY : Matrix/7_median_of_sorted_matrix.cpp.obj
 
-Sorting/1_bubble_sort.i: Sorting/1_bubble_sort.cpp.i
+Matrix/7_median_of_sorted_matrix.i: Matrix/7_median_of_sorted_matrix.cpp.i
 
-.PHONY : Sorting/1_bubble_sort.i
+.PHONY : Matrix/7_median_of_sorted_matrix.i
 
 # target to preprocess a source file
-Sorting/1_bubble_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Sorting/1_bubble_sort.cpp.i
-.PHONY : Sorting/1_bubble_sort.cpp.i
+Matrix/7_median_of_sorted_matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Matrix/7_median_of_sorted_matrix.cpp.i
+.PHONY : Matrix/7_median_of_sorted_matrix.cpp.i
 
-Sorting/1_bubble_sort.s: Sorting/1_bubble_sort.cpp.s
+Matrix/7_median_of_sorted_matrix.s: Matrix/7_median_of_sorted_matrix.cpp.s
 
-.PHONY : Sorting/1_bubble_sort.s
+.PHONY : Matrix/7_median_of_sorted_matrix.s
 
 # target to generate assembly for a file
-Sorting/1_bubble_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Sorting/1_bubble_sort.cpp.s
-.PHONY : Sorting/1_bubble_sort.cpp.s
+Matrix/7_median_of_sorted_matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Matrix/7_median_of_sorted_matrix.cpp.s
+.PHONY : Matrix/7_median_of_sorted_matrix.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Sorting/1_bubble_sort.obj
-	@echo ... Sorting/1_bubble_sort.i
-	@echo ... Sorting/1_bubble_sort.s
+	@echo ... Matrix/7_median_of_sorted_matrix.obj
+	@echo ... Matrix/7_median_of_sorted_matrix.i
+	@echo ... Matrix/7_median_of_sorted_matrix.s
 .PHONY : help
 
 

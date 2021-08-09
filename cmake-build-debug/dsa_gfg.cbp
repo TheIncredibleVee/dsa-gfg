@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Sorting/1_bubble_sort.cpp">
+		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Matrix/7_median_of_sorted_matrix.cpp">
 			<Option target="dsa_gfg"/>
 		</Unit>
 		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/CMakeLists.txt">

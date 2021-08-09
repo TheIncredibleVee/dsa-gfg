@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/thein/Desktop/dsa-gfg/Sorting/1_bubble_sort.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Sorting/1_bubble_sort.cpp.obj"
+  "C:/Users/thein/Desktop/dsa-gfg/Matrix/7_median_of_sorted_matrix.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Matrix/7_median_of_sorted_matrix.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

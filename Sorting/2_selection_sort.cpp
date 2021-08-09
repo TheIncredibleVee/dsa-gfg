@@ -4,7 +4,7 @@ using namespace std;
 
 void selection_sort(vector<int> &a){
     for(int i=0;i<a.size();++i){
-        int pos=0;
+        int pos=i;
         for(int j=i+1;j<a.size();j++){
             if(a[pos]>a[j]){
                 pos=j;

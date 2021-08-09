@@ -12,7 +12,7 @@ void print_vector(const vector<int> &x){
     bool swapped=false;
     for(int i=0;i<a.size()-1;++i){
         swapped=false;
-        for(int j=1;j<a.size()-1-i;++j){
+        for(int j=0;j<a.size()-1-i;++j){
             if(a[j]>a[j+1]){
                 swap(a[j],a[j+1]);
                 swapped=true;
