@@ -28,7 +28,7 @@ vector<int> cnt_occurances_for_less_k(vector<int> &a, int k){
     vector<int> res;
     unordered_map<int, int> h;
     for(auto x:a){
-        if(h.find(x)!=h.end() || h.size()<=k-1){
+        if(h.find(x)!=h.end() || h.size()<k-1){
             h[x]++;
         }
         else{
@@ -41,9 +41,16 @@ vector<int> cnt_occurances_for_less_k(vector<int> &a, int k){
         }
     }
     int cmp=a.size()/k;
-    for(auto e:h){
-        if(e.second>cmp)
+    unordered_map<int,int > h2;
+    for(auto x:a){
+        if(h.find(x)!=h.end()){
+            h2[x]++;
+        }
+    }
+    for(auto e:h2){
+        if(e.second>cmp){
             res.push_back(e.first);
+        }
     }
     return res;
 }
