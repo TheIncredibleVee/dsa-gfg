@@ -2,47 +2,28 @@
 
 using namespace std;
 
-vector<int> mergeTwo(vector<int> &a, vector<int> &b){
-    vector<int> res;
-    int n=a.size();
-    int m=b.size();
-    int i=0;
-    int j=0;
-    while(i<a.size() && j<b.size()){
-        if(a[i]<=b[j]){
-            res.push_back(a[i]);
-            i++;
-        }
-        else{
-            res.push_back(b[j]);
-            j++;
-        }
+void print_vector(const vector<int> &x){
+    for(auto i:x){
+        cout<<i<<"\t";
     }
-    while(i<n){
-        res.push_back(a[i]);
-        i++;
-    }
-    while(j<m){
-        res.push_back(a[j]);
-        j++;
-    }
-    return res;
+    cout<<endl;
 }
 
 void merge(vector<int> &a, int low ,int mid, int high){
+    cout<<"Merging the two sorted sub-arrays from "<<low<<" to "<<high<<" with "<<mid<<" as middle elem"<<endl;
     int n =mid-low+1;
     int m=high-mid;
-    vector<int> left(n);
-    vector<int> right(n);
+    int left[n];
+    int right[m];
     for(int i=0;i<n;++i){
-        left[i]=a[i];
+        left[i]=a[i+low];
     }
     for(int j=0;j<m;++j){
         right[j]=a[mid+j+1];
     }
     int i=0;
     int j=0;
-    int index=0;
+    int index=low;
     while(i<n&&j<m){
         if(left[i]<=right[j]){
             a[index]=left[i];
@@ -66,17 +47,15 @@ void merge(vector<int> &a, int low ,int mid, int high){
         j++;
         index++;
     }
-
+    cout<<"After sorting\n";
+    print_vector(a);
 }
-void print_vector(const vector<int> &x){
-    for(auto i:x){
-        cout<<i<<"\t";
-      }
- }
+
 
 void mergeSort(vector<int> &a, int l, int r ){
     if(r>l){
         int mid= l+(r-l)/2;
+        cout<<"Calling recursive sort function for "<<l<<" to "<<mid<<" as left half and "<<mid+1<<" to "<<r<<" as right half\n";
         mergeSort(a,l, mid);
         mergeSort(a,mid+1,r);
         merge(a, l ,mid ,r);
@@ -89,13 +68,8 @@ int main(){
     for (int i = 0; i < n; ++i) {
         cin>>a[i];
     }
-    int m;
-    cin>>m;
-    vector<int> b(m,0);
-    for (int i = 0; i < m; ++i) {
-        cin>>b[i];
-    }
-    mergeTwo(a,b);
+    mergeSort(a,0,n-1);
+    cout<<"\nThe final array after comes out to be\n";
     print_vector(a);
     return 0;
 }

@@ -1,0 +1,16 @@
+S.NO    TOPIC OF CODE                                                                           TIME COMPLEXITY         SPACE COMPLEXITY
+
+1.      Check if the given string is a palindrome or not                                        O(n)                    O(1)
+2.      Check if a String is Subsequence of Other                                               O(n+m)                  O(1)
+3.      Check for Anagram                                                                       O(n)                    O(n)
+4.      Leftmost Repeating & Non-Repeating Character                                            O(n)                    O(n)
+5.      Reverse words in a given string                                                         O(n)                    O(n)
+6.      Pattern search Naive                                                                    O((n-m+1)*m)            O(1)
+7.      Improved Naive Pattern Searching for Distinct                                           O(n)                    O(1)
+8.      Rabin Karp for pattern search using hashing                                             O((n-m+1)*m)            O(n)
+9.      Longest Proper Prefix Suffix of a given string (Naive & KMP)                            O(n^3) & O(n)           O(1) & O(n)
+10.     Pattern search using KMP algo.                                                          O(n)                    O(m)
+11.     Check if strings are rotated                                                            O(n)                    O(1)
+12.     Anagram Search in a given string                                                        O(n)                    O(n)
+13.     Lexicographic Rank of a String                                                          O(n)                    O(n)
+14.     Longest Substring with Distinct Characters                                              O(n)                    O(n)

@@ -3,4 +3,4 @@ project(dsa_gfg)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dsa_gfg "Hashing/13_elements_with_more_than _n_over_k_occurances.cpp")
+add_executable(dsa_gfg Strings/14_longest_substring_with_distinct_characters.cpp)

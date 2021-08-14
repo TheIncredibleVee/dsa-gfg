@@ -28,7 +28,7 @@ vector<int> cnt_occurances_for_less_k(vector<int> &a, int k){
     vector<int> res;
     unordered_map<int, int> h;
     for(auto x:a){
-        if(h.find(x)!=h.end() || h.size()<k-1){
+        if(h.find(x)!=h.end() || h.size()< n k-1){
             h[x]++;
         }
         else{

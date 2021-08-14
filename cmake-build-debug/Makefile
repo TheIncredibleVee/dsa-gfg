@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Hashing/13_elements_with_more_than__n_over_k_occurances.obj: Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.obj
+Strings/14_longest_substring_with_distinct_characters.obj: Strings/14_longest_substring_with_distinct_characters.cpp.obj
 
-.PHONY : Hashing/13_elements_with_more_than__n_over_k_occurances.obj
+.PHONY : Strings/14_longest_substring_with_distinct_characters.obj
 
 # target to build an object file
-Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.obj
-.PHONY : Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.obj
+Strings/14_longest_substring_with_distinct_characters.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Strings/14_longest_substring_with_distinct_characters.cpp.obj
+.PHONY : Strings/14_longest_substring_with_distinct_characters.cpp.obj
 
-Hashing/13_elements_with_more_than__n_over_k_occurances.i: Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.i
+Strings/14_longest_substring_with_distinct_characters.i: Strings/14_longest_substring_with_distinct_characters.cpp.i
 
-.PHONY : Hashing/13_elements_with_more_than__n_over_k_occurances.i
+.PHONY : Strings/14_longest_substring_with_distinct_characters.i
 
 # target to preprocess a source file
-Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.i
-.PHONY : Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.i
+Strings/14_longest_substring_with_distinct_characters.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Strings/14_longest_substring_with_distinct_characters.cpp.i
+.PHONY : Strings/14_longest_substring_with_distinct_characters.cpp.i
 
-Hashing/13_elements_with_more_than__n_over_k_occurances.s: Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.s
+Strings/14_longest_substring_with_distinct_characters.s: Strings/14_longest_substring_with_distinct_characters.cpp.s
 
-.PHONY : Hashing/13_elements_with_more_than__n_over_k_occurances.s
+.PHONY : Strings/14_longest_substring_with_distinct_characters.s
 
 # target to generate assembly for a file
-Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.s
-.PHONY : Hashing/13_elements_with_more_than__n_over_k_occurances.cpp.s
+Strings/14_longest_substring_with_distinct_characters.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Strings/14_longest_substring_with_distinct_characters.cpp.s
+.PHONY : Strings/14_longest_substring_with_distinct_characters.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Hashing/13_elements_with_more_than__n_over_k_occurances.obj
-	@echo ... Hashing/13_elements_with_more_than__n_over_k_occurances.i
-	@echo ... Hashing/13_elements_with_more_than__n_over_k_occurances.s
+	@echo ... Strings/14_longest_substring_with_distinct_characters.obj
+	@echo ... Strings/14_longest_substring_with_distinct_characters.i
+	@echo ... Strings/14_longest_substring_with_distinct_characters.s
 .PHONY : help
 
 
