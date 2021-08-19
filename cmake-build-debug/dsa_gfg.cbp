@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Stack/10_infix_postfix_prefix.cpp">
+		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Queue/4_print_n.cpp">
 			<Option target="dsa_gfg"/>
 		</Unit>
 		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/CMakeLists.txt">

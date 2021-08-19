@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Stack/10_infix_postfix_prefix.obj: Stack/10_infix_postfix_prefix.cpp.obj
+Queue/4_print_n.obj: Queue/4_print_n.cpp.obj
 
-.PHONY : Stack/10_infix_postfix_prefix.obj
+.PHONY : Queue/4_print_n.obj
 
 # target to build an object file
-Stack/10_infix_postfix_prefix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Stack/10_infix_postfix_prefix.cpp.obj
-.PHONY : Stack/10_infix_postfix_prefix.cpp.obj
+Queue/4_print_n.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Queue/4_print_n.cpp.obj
+.PHONY : Queue/4_print_n.cpp.obj
 
-Stack/10_infix_postfix_prefix.i: Stack/10_infix_postfix_prefix.cpp.i
+Queue/4_print_n.i: Queue/4_print_n.cpp.i
 
-.PHONY : Stack/10_infix_postfix_prefix.i
+.PHONY : Queue/4_print_n.i
 
 # target to preprocess a source file
-Stack/10_infix_postfix_prefix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Stack/10_infix_postfix_prefix.cpp.i
-.PHONY : Stack/10_infix_postfix_prefix.cpp.i
+Queue/4_print_n.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Queue/4_print_n.cpp.i
+.PHONY : Queue/4_print_n.cpp.i
 
-Stack/10_infix_postfix_prefix.s: Stack/10_infix_postfix_prefix.cpp.s
+Queue/4_print_n.s: Queue/4_print_n.cpp.s
 
-.PHONY : Stack/10_infix_postfix_prefix.s
+.PHONY : Queue/4_print_n.s
 
 # target to generate assembly for a file
-Stack/10_infix_postfix_prefix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Stack/10_infix_postfix_prefix.cpp.s
-.PHONY : Stack/10_infix_postfix_prefix.cpp.s
+Queue/4_print_n.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Queue/4_print_n.cpp.s
+.PHONY : Queue/4_print_n.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Stack/10_infix_postfix_prefix.obj
-	@echo ... Stack/10_infix_postfix_prefix.i
-	@echo ... Stack/10_infix_postfix_prefix.s
+	@echo ... Queue/4_print_n.obj
+	@echo ... Queue/4_print_n.i
+	@echo ... Queue/4_print_n.s
 .PHONY : help
 
 

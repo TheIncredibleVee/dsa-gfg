@@ -3,4 +3,4 @@ project(dsa_gfg)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dsa_gfg Stack/10_infix_postfix_prefix.cpp)
+add_executable(dsa_gfg Queue/4_print_n.cpp)

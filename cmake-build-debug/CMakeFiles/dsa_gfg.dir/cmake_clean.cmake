@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dsa_gfg.dir/Stack/10_infix_postfix_prefix.cpp.obj"
+  "CMakeFiles/dsa_gfg.dir/Queue/4_print_n.cpp.obj"
   "dsa_gfg.exe"
   "dsa_gfg.exe.manifest"
   "dsa_gfg.pdb"
