@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/thein/Desktop/dsa-gfg/Strings/14_longest_substring_with_distinct_characters.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Strings/14_longest_substring_with_distinct_characters.cpp.obj"
+  "C:/Users/thein/Desktop/dsa-gfg/Stack/10_infix_postfix_prefix.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Stack/10_infix_postfix_prefix.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

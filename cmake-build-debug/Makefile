@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Strings/14_longest_substring_with_distinct_characters.obj: Strings/14_longest_substring_with_distinct_characters.cpp.obj
+Stack/10_infix_postfix_prefix.obj: Stack/10_infix_postfix_prefix.cpp.obj
 
-.PHONY : Strings/14_longest_substring_with_distinct_characters.obj
+.PHONY : Stack/10_infix_postfix_prefix.obj
 
 # target to build an object file
-Strings/14_longest_substring_with_distinct_characters.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Strings/14_longest_substring_with_distinct_characters.cpp.obj
-.PHONY : Strings/14_longest_substring_with_distinct_characters.cpp.obj
+Stack/10_infix_postfix_prefix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Stack/10_infix_postfix_prefix.cpp.obj
+.PHONY : Stack/10_infix_postfix_prefix.cpp.obj
 
-Strings/14_longest_substring_with_distinct_characters.i: Strings/14_longest_substring_with_distinct_characters.cpp.i
+Stack/10_infix_postfix_prefix.i: Stack/10_infix_postfix_prefix.cpp.i
 
-.PHONY : Strings/14_longest_substring_with_distinct_characters.i
+.PHONY : Stack/10_infix_postfix_prefix.i
 
 # target to preprocess a source file
-Strings/14_longest_substring_with_distinct_characters.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Strings/14_longest_substring_with_distinct_characters.cpp.i
-.PHONY : Strings/14_longest_substring_with_distinct_characters.cpp.i
+Stack/10_infix_postfix_prefix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Stack/10_infix_postfix_prefix.cpp.i
+.PHONY : Stack/10_infix_postfix_prefix.cpp.i
 
-Strings/14_longest_substring_with_distinct_characters.s: Strings/14_longest_substring_with_distinct_characters.cpp.s
+Stack/10_infix_postfix_prefix.s: Stack/10_infix_postfix_prefix.cpp.s
 
-.PHONY : Strings/14_longest_substring_with_distinct_characters.s
+.PHONY : Stack/10_infix_postfix_prefix.s
 
 # target to generate assembly for a file
-Strings/14_longest_substring_with_distinct_characters.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Strings/14_longest_substring_with_distinct_characters.cpp.s
-.PHONY : Strings/14_longest_substring_with_distinct_characters.cpp.s
+Stack/10_infix_postfix_prefix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Stack/10_infix_postfix_prefix.cpp.s
+.PHONY : Stack/10_infix_postfix_prefix.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Strings/14_longest_substring_with_distinct_characters.obj
-	@echo ... Strings/14_longest_substring_with_distinct_characters.i
-	@echo ... Strings/14_longest_substring_with_distinct_characters.s
+	@echo ... Stack/10_infix_postfix_prefix.obj
+	@echo ... Stack/10_infix_postfix_prefix.i
+	@echo ... Stack/10_infix_postfix_prefix.s
 .PHONY : help
 
 
