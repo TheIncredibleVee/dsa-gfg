@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/thein/Desktop/dsa-gfg/Queue/4_print_n.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Queue/4_print_n.cpp.obj"
+  "C:/Users/thein/Desktop/dsa-gfg/Trees/1_tree_traversal.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Trees/1_tree_traversal.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

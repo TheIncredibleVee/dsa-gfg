@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Queue/4_print_n.obj: Queue/4_print_n.cpp.obj
+Trees/1_tree_traversal.obj: Trees/1_tree_traversal.cpp.obj
 
-.PHONY : Queue/4_print_n.obj
+.PHONY : Trees/1_tree_traversal.obj
 
 # target to build an object file
-Queue/4_print_n.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Queue/4_print_n.cpp.obj
-.PHONY : Queue/4_print_n.cpp.obj
+Trees/1_tree_traversal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Trees/1_tree_traversal.cpp.obj
+.PHONY : Trees/1_tree_traversal.cpp.obj
 
-Queue/4_print_n.i: Queue/4_print_n.cpp.i
+Trees/1_tree_traversal.i: Trees/1_tree_traversal.cpp.i
 
-.PHONY : Queue/4_print_n.i
+.PHONY : Trees/1_tree_traversal.i
 
 # target to preprocess a source file
-Queue/4_print_n.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Queue/4_print_n.cpp.i
-.PHONY : Queue/4_print_n.cpp.i
+Trees/1_tree_traversal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Trees/1_tree_traversal.cpp.i
+.PHONY : Trees/1_tree_traversal.cpp.i
 
-Queue/4_print_n.s: Queue/4_print_n.cpp.s
+Trees/1_tree_traversal.s: Trees/1_tree_traversal.cpp.s
 
-.PHONY : Queue/4_print_n.s
+.PHONY : Trees/1_tree_traversal.s
 
 # target to generate assembly for a file
-Queue/4_print_n.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Queue/4_print_n.cpp.s
-.PHONY : Queue/4_print_n.cpp.s
+Trees/1_tree_traversal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Trees/1_tree_traversal.cpp.s
+.PHONY : Trees/1_tree_traversal.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Queue/4_print_n.obj
-	@echo ... Queue/4_print_n.i
-	@echo ... Queue/4_print_n.s
+	@echo ... Trees/1_tree_traversal.obj
+	@echo ... Trees/1_tree_traversal.i
+	@echo ... Trees/1_tree_traversal.s
 .PHONY : help
 
 

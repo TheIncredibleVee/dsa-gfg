@@ -3,4 +3,4 @@ project(dsa_gfg)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dsa_gfg Queue/4_print_n.cpp)
+add_executable(dsa_gfg Trees/1_tree_traversal.cpp)

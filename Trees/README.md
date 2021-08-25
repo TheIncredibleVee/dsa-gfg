@@ -1,0 +1,21 @@
+S.NO    TOPIC OF CODE                                                                           TIME COMPLEXITY         SPACE COMPLEXITY
+
+1.      Inorder, pre and post order traversal                                                   O(n)                    O(h)
+2.      Height of a tree                                                                        O(n)                    O(1)
+3.      Print Nodes at K distance                                                               O(n)                    O(1)
+4.      Level order traversal                                                                   O(n)                    O(n) or theta(width)
+5.      Size of a tree                                                                          O(n)                    O(h)
+6.      Max in a binary tree                                                                    O(n)                    O(h)
+7.      Print Left View of Binary Tree(rec and iter)                                            O(n)                    O(h)
+8.      Children Sum Property                                                                   O(n)                    O(h)
+9.      Check for Balanced Binary Tree                                                          O(n^2)                  O(h)
+10.     Maximum Width of Binary Tree                                                            O(n)                    O(n)
+11.     Convert Binary Tree to Doubly Linked List                                               O(n)                    O(n)
+12.     Construct Binary Tree from Inorder and Preorder                                         O(n^2)                  O(n)
+13.     Tree traversal in spiral form                                                           O(n)                    O(h)
+14.     Diameter of a tree
+15.     Least Common Ancestor                                                                   O(n)                    O(h)
+16.     Brun a leaf/ Farthest dist from a given leaf                                            O(n)                    O(h)
+17.     Count nodes in a complete binary tree                                                   O(n) &&O(log(n)*log(n)) O(h)
+18.     Serialize and Deserialize a Binary Tree                                                 O(n)                    O(n)
+19.     Iterative in-order and pre-order traversal                                              O(n)                    O(h)
