@@ -1,4 +1,4 @@
-S.NO    TOPIC OF CODE                                                                           TIME COMPLEXITY         SPACE COMPLEXITY
+0.      TOPIC OF CODE                                                                           TIME COMPLEXITY         SPACE COMPLEXITY
 
 1.      Inorder, pre and post order traversal                                                   O(n)                    O(h)
 2.      Height of a tree                                                                        O(n)                    O(1)
