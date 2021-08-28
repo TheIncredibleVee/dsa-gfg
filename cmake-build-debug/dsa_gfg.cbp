@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Trees/1_tree_traversal.cpp">
+		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/BST/3_kth_smallest_in_bst.cpp">
 			<Option target="dsa_gfg"/>
 		</Unit>
 		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/CMakeLists.txt">

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dsa_gfg.dir/Trees/1_tree_traversal.cpp.obj"
+  "CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj"
   "dsa_gfg.exe"
   "dsa_gfg.exe.manifest"
   "dsa_gfg.pdb"

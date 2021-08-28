@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-Trees/1_tree_traversal.obj: Trees/1_tree_traversal.cpp.obj
+BST/3_kth_smallest_in_bst.obj: BST/3_kth_smallest_in_bst.cpp.obj
 
-.PHONY : Trees/1_tree_traversal.obj
+.PHONY : BST/3_kth_smallest_in_bst.obj
 
 # target to build an object file
-Trees/1_tree_traversal.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Trees/1_tree_traversal.cpp.obj
-.PHONY : Trees/1_tree_traversal.cpp.obj
+BST/3_kth_smallest_in_bst.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj
+.PHONY : BST/3_kth_smallest_in_bst.cpp.obj
 
-Trees/1_tree_traversal.i: Trees/1_tree_traversal.cpp.i
+BST/3_kth_smallest_in_bst.i: BST/3_kth_smallest_in_bst.cpp.i
 
-.PHONY : Trees/1_tree_traversal.i
+.PHONY : BST/3_kth_smallest_in_bst.i
 
 # target to preprocess a source file
-Trees/1_tree_traversal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Trees/1_tree_traversal.cpp.i
-.PHONY : Trees/1_tree_traversal.cpp.i
+BST/3_kth_smallest_in_bst.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.i
+.PHONY : BST/3_kth_smallest_in_bst.cpp.i
 
-Trees/1_tree_traversal.s: Trees/1_tree_traversal.cpp.s
+BST/3_kth_smallest_in_bst.s: BST/3_kth_smallest_in_bst.cpp.s
 
-.PHONY : Trees/1_tree_traversal.s
+.PHONY : BST/3_kth_smallest_in_bst.s
 
 # target to generate assembly for a file
-Trees/1_tree_traversal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Trees/1_tree_traversal.cpp.s
-.PHONY : Trees/1_tree_traversal.cpp.s
+BST/3_kth_smallest_in_bst.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.s
+.PHONY : BST/3_kth_smallest_in_bst.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... Trees/1_tree_traversal.obj
-	@echo ... Trees/1_tree_traversal.i
-	@echo ... Trees/1_tree_traversal.s
+	@echo ... BST/3_kth_smallest_in_bst.obj
+	@echo ... BST/3_kth_smallest_in_bst.i
+	@echo ... BST/3_kth_smallest_in_bst.s
 .PHONY : help
 
 
