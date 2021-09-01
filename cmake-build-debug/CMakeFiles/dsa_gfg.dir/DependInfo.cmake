@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/thein/Desktop/dsa-gfg/BST/3_kth_smallest_in_bst.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj"
+  "C:/Users/thein/Desktop/dsa-gfg/Heap/7_median_of_stream.cpp" "C:/Users/thein/Desktop/dsa-gfg/cmake-build-debug/CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -141,32 +141,32 @@ dsa_gfg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/build
 .PHONY : dsa_gfg/fast
 
-BST/3_kth_smallest_in_bst.obj: BST/3_kth_smallest_in_bst.cpp.obj
+Heap/7_median_of_stream.obj: Heap/7_median_of_stream.cpp.obj
 
-.PHONY : BST/3_kth_smallest_in_bst.obj
+.PHONY : Heap/7_median_of_stream.obj
 
 # target to build an object file
-BST/3_kth_smallest_in_bst.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj
-.PHONY : BST/3_kth_smallest_in_bst.cpp.obj
+Heap/7_median_of_stream.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.obj
+.PHONY : Heap/7_median_of_stream.cpp.obj
 
-BST/3_kth_smallest_in_bst.i: BST/3_kth_smallest_in_bst.cpp.i
+Heap/7_median_of_stream.i: Heap/7_median_of_stream.cpp.i
 
-.PHONY : BST/3_kth_smallest_in_bst.i
+.PHONY : Heap/7_median_of_stream.i
 
 # target to preprocess a source file
-BST/3_kth_smallest_in_bst.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.i
-.PHONY : BST/3_kth_smallest_in_bst.cpp.i
+Heap/7_median_of_stream.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.i
+.PHONY : Heap/7_median_of_stream.cpp.i
 
-BST/3_kth_smallest_in_bst.s: BST/3_kth_smallest_in_bst.cpp.s
+Heap/7_median_of_stream.s: Heap/7_median_of_stream.cpp.s
 
-.PHONY : BST/3_kth_smallest_in_bst.s
+.PHONY : Heap/7_median_of_stream.s
 
 # target to generate assembly for a file
-BST/3_kth_smallest_in_bst.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.s
-.PHONY : BST/3_kth_smallest_in_bst.cpp.s
+Heap/7_median_of_stream.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsa_gfg.dir\build.make CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.s
+.PHONY : Heap/7_median_of_stream.cpp.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsa_gfg
-	@echo ... BST/3_kth_smallest_in_bst.obj
-	@echo ... BST/3_kth_smallest_in_bst.i
-	@echo ... BST/3_kth_smallest_in_bst.s
+	@echo ... Heap/7_median_of_stream.obj
+	@echo ... Heap/7_median_of_stream.i
+	@echo ... Heap/7_median_of_stream.s
 .PHONY : help
 
 

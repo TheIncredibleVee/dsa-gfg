@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/BST/3_kth_smallest_in_bst.cpp">
+		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/Heap/7_median_of_stream.cpp">
 			<Option target="dsa_gfg"/>
 		</Unit>
 		<Unit filename="C:/Users/thein/Desktop/dsa-gfg/CMakeLists.txt">

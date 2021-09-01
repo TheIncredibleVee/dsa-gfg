@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj"
+  "CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.obj"
   "dsa_gfg.exe"
   "dsa_gfg.exe.manifest"
   "dsa_gfg.pdb"

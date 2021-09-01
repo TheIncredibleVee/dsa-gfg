@@ -75,27 +75,27 @@ include CMakeFiles/dsa_gfg.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/dsa_gfg.dir/flags.make
 
-CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj: CMakeFiles/dsa_gfg.dir/flags.make
-CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj: ../BST/3_kth_smallest_in_bst.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\thein\Desktop\dsa-gfg\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\dsa_gfg.dir\BST\3_kth_smallest_in_bst.cpp.obj -c C:\Users\thein\Desktop\dsa-gfg\BST\3_kth_smallest_in_bst.cpp
+CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.obj: CMakeFiles/dsa_gfg.dir/flags.make
+CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.obj: ../Heap/7_median_of_stream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\thein\Desktop\dsa-gfg\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\dsa_gfg.dir\Heap\7_median_of_stream.cpp.obj -c C:\Users\thein\Desktop\dsa-gfg\Heap\7_median_of_stream.cpp
 
-CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\thein\Desktop\dsa-gfg\BST\3_kth_smallest_in_bst.cpp > CMakeFiles\dsa_gfg.dir\BST\3_kth_smallest_in_bst.cpp.i
+CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\thein\Desktop\dsa-gfg\Heap\7_median_of_stream.cpp > CMakeFiles\dsa_gfg.dir\Heap\7_median_of_stream.cpp.i
 
-CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\thein\Desktop\dsa-gfg\BST\3_kth_smallest_in_bst.cpp -o CMakeFiles\dsa_gfg.dir\BST\3_kth_smallest_in_bst.cpp.s
+CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\thein\Desktop\dsa-gfg\Heap\7_median_of_stream.cpp -o CMakeFiles\dsa_gfg.dir\Heap\7_median_of_stream.cpp.s
 
 # Object files for target dsa_gfg
 dsa_gfg_OBJECTS = \
-"CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj"
+"CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.obj"
 
 # External object files for target dsa_gfg
 dsa_gfg_EXTERNAL_OBJECTS =
 
-dsa_gfg.exe: CMakeFiles/dsa_gfg.dir/BST/3_kth_smallest_in_bst.cpp.obj
+dsa_gfg.exe: CMakeFiles/dsa_gfg.dir/Heap/7_median_of_stream.cpp.obj
 dsa_gfg.exe: CMakeFiles/dsa_gfg.dir/build.make
 dsa_gfg.exe: CMakeFiles/dsa_gfg.dir/linklibs.rsp
 dsa_gfg.exe: CMakeFiles/dsa_gfg.dir/objects1.rsp

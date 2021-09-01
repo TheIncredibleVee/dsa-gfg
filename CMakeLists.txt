@@ -3,4 +3,4 @@ project(dsa_gfg)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dsa_gfg BST/3_kth_smallest_in_bst.cpp)
+add_executable(dsa_gfg Heap/7_median_of_stream.cpp)
