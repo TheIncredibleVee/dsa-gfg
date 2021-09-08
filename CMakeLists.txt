@@ -3,4 +3,4 @@ project(dsa_gfg)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dsa_gfg Heap/7_median_of_stream.cpp)
+add_executable(dsa_gfg Graphs/11_MST.cpp)
