@@ -10,4 +10,4 @@ S.NO    TOPIC OF CODE                                                           
 8.      Cycle detection in a graph using topological sorting using bfs in directed graphs        O(v+e)                 O(v+e)
 9.      Topological Sorting using DFS                                                            O(v+e)                 O(v+e)
 10.     Shortest Distance in a DAG(weighted) using topological sorting from a source             O(v+e)                 O(v+e)
-11.     MST in undirected weighted graph (Prim's Algo)[adj matrix, adj list]                     O(v^2) && O(elogv)     O(v+e)
+11.     MST in undirected weighted graph (Prim's Algo)[adj matrix, adj list]                     O(v^2) && O(e*logv)     O(v+e)
